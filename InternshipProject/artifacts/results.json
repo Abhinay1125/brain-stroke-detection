@@ -1,0 +1,22 @@
+{
+  "test": {
+    "Accuracy": 0.7614,
+    "Precision": 0.1386,
+    "Recall": 0.7568,
+    "F1": 0.2343,
+    "ROC-AUC": 0.7963,
+    "PR-AUC": 0.1454,
+    "Brier": 0.044
+  },
+  "validation": {
+    "Accuracy": 0.7562,
+    "Precision": 0.1324,
+    "Recall": 0.7297,
+    "F1": 0.2241,
+    "ROC-AUC": 0.7966,
+    "PR-AUC": 0.227,
+    "Brier": 0.0436
+  },
+  "threshold": 0.1027,
+  "seed": 42
+}

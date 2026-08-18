@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+myenv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Python cache
+.pytest_cache/
+
+# ML models / large files
+*.pkl
+*.pth
+*.pt
+*.onnx
+
+# Datasets
+ISLES-2022/
+*.nii
+*.nii.gz
+
+# Logs
+*.log
+
+# Environment/secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
